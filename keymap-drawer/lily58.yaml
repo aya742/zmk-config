@@ -54,7 +54,7 @@ layers:
   - LEFT CONTROL
   - {t: ␣, h: '$$mdi:apple-keyboard-command$$'}
   - {t: ␣, h: LANG HIRAGANA}
-  - {t: ␣, h: Rai}
+  - {t: ␣, h: Low}
   - {t: ENTER, h: Low}
   - {t: ␣, h: RIGHT GUI}
   - RIGHT ALT
@@ -113,8 +113,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -172,7 +172,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
