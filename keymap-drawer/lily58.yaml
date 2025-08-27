@@ -57,7 +57,7 @@ layers:
   - {t: ␣, h: Rai}
   - {t: ENTER, h: Low}
   - {t: ␣, h: RIGHT GUI}
-  - C
+  - RIGHT GUI
   - $$mdi:apple-keyboard-command$$
   Low:
   - BT CLR
