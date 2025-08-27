@@ -43,7 +43,7 @@ layers:
   - C
   - V
   - B
-  - F7
+  - Rai
   - F9
   - N
   - M
@@ -161,7 +161,7 @@ layers:
   - F10
   - F11
   - F12
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - KP PLUS
   - '-'
