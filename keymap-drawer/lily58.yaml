@@ -51,7 +51,7 @@ layers:
   - .
   - /
   - '0'
-  - LEFT CONTROL
+  - ENTER
   - {t: ␣, h: '$$mdi:apple-keyboard-command$$'}
   - {t: ␣, h: LANG HIRAGANA}
   - {t: ␣, h: Low}

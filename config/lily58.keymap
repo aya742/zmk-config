@@ -22,11 +22,11 @@
 
             display-name = "Bas";
             bindings = <
-&kp ESC    &kp N1  &kp N2  &kp N3            &kp N4          &kp N5                                               &kp N6               &kp N7         &kp N8     &kp N9   &kp MINUS         &kp BACKSPACE
-&kp TAB    &kp Q   &kp W   &kp E             &kp R           &kp T                                                &kp Y                &kp U          &kp I      &kp O    &kp P             &kp ENTER
-&kp LCTRL  &kp A   &kp S   &kp D             &kp F           &kp G                                                &kp H                &kp J          &kp K      &kp L    &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&kp LSHFT  &kp Z   &kp X   &kp C             &kp V           &kp B                    &mo 2          &kp F9       &kp N                &kp M          &kp COMMA  &kp DOT  &kp FSLH          &kp NUMBER_0
-                           &kp LEFT_CONTROL  &mt LGUI SPACE  &mt LANG_HIRAGANA SPACE  &lt 1 SPACE    &lt 1 ENTER  &mt RIGHT_GUI SPACE  &kp RIGHT_ALT  &kp RGUI
+&kp ESC    &kp N1  &kp N2  &kp N3     &kp N4          &kp N5                                               &kp N6               &kp N7         &kp N8     &kp N9   &kp MINUS         &kp BACKSPACE
+&kp TAB    &kp Q   &kp W   &kp E      &kp R           &kp T                                                &kp Y                &kp U          &kp I      &kp O    &kp P             &kp ENTER
+&kp LCTRL  &kp A   &kp S   &kp D      &kp F           &kp G                                                &kp H                &kp J          &kp K      &kp L    &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+&kp LSHFT  &kp Z   &kp X   &kp C      &kp V           &kp B                    &mo 2          &kp F9       &kp N                &kp M          &kp COMMA  &kp DOT  &kp FSLH          &kp NUMBER_0
+                           &kp ENTER  &mt LGUI SPACE  &mt LANG_HIRAGANA SPACE  &lt 1 SPACE    &lt 1 ENTER  &mt RIGHT_GUI SPACE  &kp RIGHT_ALT  &kp RGUI
             >;
         };
 
