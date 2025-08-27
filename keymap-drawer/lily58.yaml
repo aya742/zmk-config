@@ -51,7 +51,7 @@ layers:
   - .
   - /
   - '0'
-  - $$mdi:apple-keyboard-option$$
+  - A
   - {t: ␣, h: '$$mdi:apple-keyboard-command$$'}
   - {t: ␣, h: LANG HIRAGANA}
   - {t: ␣, h: Rai}
